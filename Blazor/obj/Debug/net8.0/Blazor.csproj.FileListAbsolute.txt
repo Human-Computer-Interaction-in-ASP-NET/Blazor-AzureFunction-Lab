@@ -2090,3 +2090,12 @@
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/Blazor.csproj.CopyComplete
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/ref/Blazor.dll
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/Blazor.sourcelink.json
+/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/SchoolLib.pdb
+/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/SchoolLib.wasm
+/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/SchoolLib.pdb.gz
+/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/SchoolLib.wasm.gz
+/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/SchoolLib.dll
+/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/SchoolLib.pdb
+/Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/SchoolLib.wasm
+/Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/uuf9viihea.gz
+/Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/kmgkk4ckxs.gz
