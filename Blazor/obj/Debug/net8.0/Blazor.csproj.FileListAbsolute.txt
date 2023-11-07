@@ -1273,8 +1273,6 @@
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/Blazor.pdb
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/Blazor.wasm
-/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/SchoolLib.pdb
-/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/SchoolLib.wasm
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Globalization.Calendars.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Xml.Linq.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Diagnostics.Contracts.wasm.gz
@@ -1392,7 +1390,6 @@
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Web.HttpUtility.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Net.Security.wasm.gz
-/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/SchoolLib.pdb.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.ServiceModel.Web.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Security.Claims.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Net.Ping.wasm.gz
@@ -1449,7 +1446,6 @@
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.IO.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Security.Principal.Windows.wasm.gz
-/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/SchoolLib.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Private.Xml.wasm.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/Blazor.pdb.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/wwwroot/_framework/System.Net.Primitives.wasm.gz
@@ -1678,8 +1674,6 @@
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/icudt_CJK.dat
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/icudt_EFIGS.dat
 /Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/icudt_no_CJK.dat
-/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/SchoolLib.dll
-/Users/sahilrai/Developer/BlazorSolution/Blazor/bin/Debug/net8.0/SchoolLib.pdb
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Authorization.wasm
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.wasm
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.Forms.wasm
@@ -1873,7 +1867,6 @@
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/mscorlib.wasm
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/netstandard.wasm
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/System.Private.CoreLib.wasm
-/Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/SchoolLib.wasm
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/webcil/Blazor.wasm
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/blazor.build.boot-extension.json
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/blazor.boot.json
@@ -2091,10 +2084,9 @@
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/7g4gtbfaaj.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/ft1tflre8u.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/3q0igoc7sc.gz
-/Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/uuf9viihea.gz
-/Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/kmgkk4ckxs.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/9ovagvxm4c.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/vpqlga5fmw.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/compressed/zut9de47ww.gz
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/Blazor.csproj.CopyComplete
 /Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/ref/Blazor.dll
+/Users/sahilrai/Developer/BlazorSolution/Blazor/obj/Debug/net8.0/Blazor.sourcelink.json
