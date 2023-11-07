@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sahilrai/Developer/BlazorSolution/Blazor/Blazor.csproj": {}
+  },
+  "projects": {
+    "/Users/sahilrai/Developer/BlazorSolution/Blazor/Blazor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahilrai/Developer/BlazorSolution/Blazor/Blazor.csproj",
+        "projectName": "Blazor",
+        "projectPath": "/Users/sahilrai/Developer/BlazorSolution/Blazor/Blazor.csproj",
+        "packagesPath": "/Users/sahilrai/.nuget/packages/",
+        "outputPath": "/Users/sahilrai/Developer/BlazorSolution/Blazor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahilrai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sahilrai/Developer/BlazorSolution/SchoolLib/SchoolLib.csproj": {
+                "projectPath": "/Users/sahilrai/Developer/BlazorSolution/SchoolLib/SchoolLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid": {
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23480.2, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23480.2, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23480.2, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23479.6, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23479.6, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[8.0.0-rc.2.23479.6, 8.0.0-rc.2.23479.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/sahilrai/Developer/BlazorSolution/SchoolLib/SchoolLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahilrai/Developer/BlazorSolution/SchoolLib/SchoolLib.csproj",
+        "projectName": "SchoolLib",
+        "projectPath": "/Users/sahilrai/Developer/BlazorSolution/SchoolLib/SchoolLib.csproj",
+        "packagesPath": "/Users/sahilrai/.nuget/packages/",
+        "outputPath": "/Users/sahilrai/Developer/BlazorSolution/SchoolLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sahilrai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

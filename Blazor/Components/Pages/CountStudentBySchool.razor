@@ -1,0 +1,55 @@
+@page "/countstudentbyschool"
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+
+<h3>Counter</h3>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>School Name</th>
+            <th>Student Count</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (count != null)
+        {
+            @foreach (var item in count)
+            {
+                <tr>
+                    <td>@item.School</td>
+                    <td>@item.Count</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="2">Loading data...</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    List<CountStudent> count;
+
+    [Inject]
+    private HttpClient HttpClient { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+
+    protected async Task LoadData()
+    {
+        count = await HttpClient.GetFromJsonAsync<List<CountStudent>>("http://localhost:7071/api/countbyschool");
+    }
+
+    public class CountStudent {
+        public string School { get; set; }
+        public int Count { get; set; }
+    }
+}

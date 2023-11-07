@@ -1,0 +1,36 @@
+﻿@page "/weather"
+@using System.Net.Http
+@using Newtonsoft.Json
+@using System.Threading.Tasks
+
+<PageTitle>All Students</PageTitle>
+
+
+<div class="grid">
+    <QuickGrid Items="@students" PageSize="10" TItem="Student">
+        <PropertyColumn Property="@(student => student.StudentId)" Sortable="true" />
+        <PropertyColumn Property="@(student => student.LastName)" Sortable="true" />
+        <PropertyColumn Property="@(student => student.FirstName)" Sortable="true" />
+        <PropertyColumn Property="@(student => student.School)" Sortable="true" />
+    </QuickGrid>
+</div>
+
+@code {
+
+    IQueryable<Student> students;
+        HttpClient httpClient = new HttpClient();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+
+    protected async Task LoadData()
+    {
+        var studentsArray = await httpClient.GetFromJsonAsync<Student[]>("http://localhost:7071/api/students");
+
+        // Convert the array to an IQueryable
+        students = studentsArray.AsQueryable();
+    }
+
+}
